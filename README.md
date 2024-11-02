@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Children-Story-Books
+An interactive children's storybook platform built with React, Spring Boot, and MongoDB, featuring personalized story creation, favorites, and engaging elements for a dynamic reading experience.
+>>>>>>> 075eba08b6774943f1e176c64574d2cce4bb3975
